@@ -23,12 +23,16 @@ landing-title: Visitez-nous à la plaza 2 d’Alma
 </section>
 
 <section id="three">
+    {% include content_products.html %}
+</section>
+
+<section id="four">
 	<div class="inner">
         {% include content_opening_hours.html %}
     </div>
 </section>
 
-<section id="four">
+<section id="five">
 	<div class="inner">
         {% include content_map.html %}
     </div>

@@ -6,4 +6,4 @@ nav-menu: yes
 description: Marques et produits vendu par N.E.W. Musique
 ---
 
-{% include content_products.html %}
+{% include page_products.html %}

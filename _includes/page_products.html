@@ -1,0 +1,22 @@
+<div class="content" style="background: white;">
+    <div class="inner">
+        {% for product_category in site.product_categories %}
+        <h3 style="color: black">{{ product_category.title }}</h3>
+        <div>
+            {% for logo in product_category.logos %}
+            {% assign per_row = 6 %}
+            {% assign loopindex = forloop.index + 1 | modulo: per_row %}
+            {% if loopindex == 1 %}
+            <div class="row">
+                {% include partial_product.html %}
+            {% elsif loopindex > 1 and loopindex < per_row %}
+                {% include partial_product.html %}
+            {% else %}
+                {% include partial_product.html %}
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</div>

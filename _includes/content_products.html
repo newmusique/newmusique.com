@@ -1,22 +1,26 @@
-<div class="content" style="background: white;">
-    <div class="inner">
-        {% for product_category in site.product_categories %}
-        <h3 style="color: black">{{ product_category.title }}</h3>
-        <div>
-            {% for logo in product_category.logos %}
-            {% assign per_row = 6 %}
-            {% assign loopindex = forloop.index + 1 | modulo: per_row %}
-            {% if loopindex == 1 %}
-            <div class="row">
-                {% include partial_product.html %}
-            {% elsif loopindex > 1 and loopindex < per_row %}
-                {% include partial_product.html %}
-            {% else %}
-                {% include partial_product.html %}
-            </div>
-            {% endif %}
-            {% endfor %}
+<div class="inner">
+    <header class="major">
+        <h2>Nos produits</h2>
+    </header>
+
+    <p>Nous avons des articles de qualité disponibles chez N.E.W. Musique dans des marques reconnus.</p>
+    <a href="{{ base_url }}/products.html" class="button next">Plus de marques ici</a>
+</div>
+
+<div class="inner" style="padding: 20px; background: white; margin-bottom: 20px; border-radius: 3px;">
+    <!-- Content -->
+    <div class="row">
+        <div class="3u 12u$(small)">
+            <a href="https://www.deanguitars.com/"><span class="image fit"><img src="{{ base_url }}/assets/images/logos/Dean-Guitars-logo.png" alt="Dean Guitars"></span></a>
         </div>
-        {% endfor %}
+        <div class="3u 12u$(small)">
+            <a href="https://www.sabian.com/"><span class="image fit"><img src="{{ base_url }}/assets/images/logos/sabian.png" alt="Sabian"></span></a>
+        </div>
+        <div class="3u 12u$(small)">
+            <a href="https://www.blackstaramps.com/uk"><span class="image fit"><img src="{{ base_url }}/assets/images/logos/Blackstar-Aplification-logo.png" alt="Blackstar Amplification"></span></a>
+        </div>
+        <div class="3u 12u$(small)">
+            <a href="https://www.shure.com/"><span class="image fit"><img src="{{ base_url }}/assets/images/logos/Shure_logo.png" alt="Shure"></span></a>
+        </div>
     </div>
 </div>
