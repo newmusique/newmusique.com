@@ -18,6 +18,7 @@
             <a href="{{ site.facebook_url }}" class="button special fit" target="_blank">Facebook</a>
         </li>
         {% endif %}
-        <li><a href="#contact" class="button fit next scrolly">Nous joindre</a></li>
+        <li><a href="{% if page.layout != 'home' %}{{ site.baseurl }}{% endif %}#opening_hours" class="button fit next scrolly">Heures d'ouverture</a></li>
+        <li><a href="{% if page.layout != 'home' %}{{ site.baseurl }}{% endif %}#contact" class="button fit next scrolly">Nous joindre</a></li>
     </ul>
 </nav>
