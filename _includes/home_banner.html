@@ -1,0 +1,19 @@
+<section id="banner" class="major">
+    <div class="inner">
+        <div style="text-align: center;">
+            <img style="width: 50%" src="{{ site.base_url }}/assets/images/NEWmusique.png"/>
+        </div>
+
+        <h2>{{ page.landing-title }}</h2>
+        <div class="content">
+            <p style="text-transform: uppercase;">{{ site.description }}</p>
+            {% if site.facebook_url %}
+            <ul class="actions">
+                <li>
+                    <a href="{{ site.facebook_url }}" class="button" target="_blank"><i class="icon fa-facebook"></i> | Facebook</a>
+                </li>
+            </ul>
+            {% endif %}
+        </div>
+    </div>
+</section>

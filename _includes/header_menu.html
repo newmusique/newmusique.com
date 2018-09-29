@@ -1,0 +1,23 @@
+<!-- Menu -->
+<nav id="menu">
+    <ul class="links">
+        {% for page in site.pages %}
+        {% if page.layout == "home" %}
+        <li><a href="{{ page.url | prepend: site.baseurl | remove: " index.html" }}">{{ page.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+        {% for page in site.pages %}
+        {% if page.layout != "home" %}
+        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+    <ul class="actions vertical">
+        {% if site.facebook_url %}
+        <li>
+            <a href="{{ site.facebook_url }}" class="button special fit" target="_blank">Facebook</a>
+        </li>
+        {% endif %}
+        <li><a href="#contact" class="button fit next scrolly">Nous joindre</a></li>
+    </ul>
+</nav>

@@ -1,58 +1,41 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title-bold: Forty
-title-normal: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
-author: 
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title-bold: N.E.W.
+title-normal: Musique
+email: infonewmusique@gmail.com
+description: Magasin de musique situé à la plaza 2 d’Alma. Venez nous voir et profitez de plusieurs services. Réparation, ajustement d’instrument, achat neuf ou usagé. Commandes spéciales disponibles!
+url: "https://newmusique.com"
+author:
+street_address: 585 rue Collard O (Plaza 2)
+city: Alma
+state: Québec
+zip_code: G8B 6S9
+country: Canada
+phone: 1 (418) 480-2727
 
 # Plugins
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
   - jemoji
 
 # Homepage tiles
-tiles-source: posts # accepts "posts" or "pages" 
+tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # Social settings
-500px_url: 
-facebook_url: 
-github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url: 
-slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+500px_url:
+facebook_url: https://www.facebook.com/NEW-Musique-133325803356003/
+github_url: https://github.com/newmusique/newmusique.com
 
 # Build settings
 markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: andrewbanchich
+  username:
 # Add one or more of the following
 facebook:
-  app_id: 
-  publisher: 
-  admins: 
-logo:
-google_site_verification: 
+  app_id:
+  publisher:
+  admins:
+google_site_verification:
