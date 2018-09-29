@@ -1,5 +1,5 @@
-title-bold: N.E.W.
-title-normal: Musique
+title-bold: N.E.W. Musique
+title-normal:
 email: infonewmusique@gmail.com
 description: Magasin de musique situé à la plaza 2 d’Alma. Venez nous voir et profitez de plusieurs services. Réparation, ajustement d’instrument, achat neuf ou usagé. Commandes spéciales disponibles!
 url: "https://newmusique.com"
@@ -13,10 +13,10 @@ phone: 1 (418) 480-2727
 
 # Plugins
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jemoji
+- jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-feed
+- jemoji
 
 # Homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -39,3 +39,177 @@ facebook:
   publisher:
   admins:
 google_site_verification:
+
+product_categories:
+- title: En vente chez N.E.W. Musique
+  logos:
+  - title: Alesis
+    image: Alesis.png
+    url:
+  - title: Alto-Professional-logo
+    image: Alto-Professional-logo.png
+    url:
+  - title: Anolis
+    image: anolis.png
+    url:
+  - title: Ashdownmusic
+    image: ashdownmusic.png
+    url:
+  - title: Beavercreek Guitars
+    image: Beavercreek-Guitars.png
+    url:
+  - title: Blackstar Aplification
+    image: Blackstar-Aplification-logo.png
+    url:
+  # new row
+  - title: Danelectro
+    image: Danelectro-logo.png
+    url:
+  - title: dbtechnologies
+    image: dbtechnologies.png
+    url:
+  - title: ddrum
+    image: ddrum.png
+    url:
+  - title: Dean Guitars
+    image: Dean-Guitars-logo.png
+    url:
+  - title: Dime Amp
+    image: Dime-Amp-Logo.png
+    url:
+  - title: DJ Tech
+    image: DJ-Tech-logo.png
+    url:
+  # new row
+  - title: dw drums
+    image: dw-drums.png
+    url:
+  - title: Egnater custom amplification
+    image: Egnater-custom-amplification-logo.png
+    url:
+  - title: Elation Professional
+    image: Elation-Professional.png
+    url:
+  - title: FBT audio
+    image: FBT-audio-logo.png
+    url:
+  - title: fleabass
+    image: fleabass.png
+    url:
+  - title: Gemini Pro Audio
+    image: Gemini_ProAudio.png
+    url:
+  # new row
+  - title: gigskinz
+    image: gigskinz-logo-transparent.png
+    url:
+  - title: Hartke Amp
+    image: Hartke_Amp.png
+    url:
+  - title: jamstands
+    image: jamstands.png
+    url:
+  - title: jetcityamplification
+    image: jetcityamplification.png
+    url:
+  - title: konig-and-meyer
+    image: konig-and-meyer.png
+    url:
+  - title: KrankAmp
+    image: KrankAmp.png
+    url:
+  # new row
+  - title: LEVY's
+    image: LEVY.s-Logo.png
+    url:
+  - title: line6 amp
+    image: line6-amp-logo.png
+    url:
+  - title: Luna Guitars
+    image: Luna-Guitars.png
+    url:
+  - title: Native Instrument
+    image: NativeInstrument.png
+    url:
+  - title: Numark
+    image: Numark.png
+    url:
+  - title: On Stage Stands
+    image: On-Stage-Stands.png
+    url:
+  # new row
+  - title: Orion
+    image: orion.png
+    url:
+  - title: Paiste
+    image: paiste.png
+    url:
+  - title: Promark
+    image: Promark-logo.png
+    url:
+  - title: RoadReadyCases
+    image: roadreadycases.png
+    url:
+  - title: Rocktron
+    image: Rocktron.png
+    url:
+  - title: Sambian
+    image: Sambian.png
+    url:
+  # new row
+  - title: Schecter Guitar Research
+    image: Schecter-Guitar-Research-logo.png
+    url:
+  - title: Shaw Direct
+    image: shawdirect-logo.png
+    url:
+  - title: Shure
+    image: Shure_Logo.png
+    url:
+  - title: Sicmats
+    image: Sicmats.png
+    url:
+  - title: Stagg Universe of Music
+    image: Stagg-Universe-of-Music-logo-copy.png
+    url:
+  - title: Studio Master
+    image: StudioMaster-logo.png
+    url:
+  # new row
+  - title: Tanglewood
+    image: tanglewood.png
+    url:
+  - title: Traxon
+    image: Traxon.png
+    url:
+  - title: Vic Firth
+    image: Vic-Firth-logo.png
+    url:
+  - title: Warwick basses amps
+    image: Warwick-basses-amps-logo.png
+    url:
+  - title: Wharefedale Pro
+    image: Wharefedale-Pro-logo.png
+    url:
+  - title: Zildjian
+    image: Zildjian.png
+    url:
+  # new row
+  - title: zt amp
+    image: zt_amp.png
+    url:
+  - title: skip
+    image:
+    url:
+  - title: skip
+    image:
+    url:
+  - title: skip
+    image:
+    url:
+  - title: skip
+    image:
+    url:
+  - title: skip
+    image:
+    url:
