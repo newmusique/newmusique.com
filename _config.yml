@@ -45,171 +45,161 @@ product_categories:
   logos:
   - title: Alesis
     image: Alesis.png
-    url:
+    url: https://www.alesis.com/
   - title: Alto-Professional-logo
     image: Alto-Professional-logo.png
-    url:
+    url: https://www.altoproaudio.com/
   - title: Anolis
     image: anolis.png
-    url:
+    url: https://www.anolislighting.com/
   - title: Ashdownmusic
     image: ashdownmusic.png
-    url:
+    url: https://ashdownmusic.com/
   - title: Beavercreek Guitars
     image: Beavercreek-Guitars.png
-    url:
+    url: http://www.beavercreekguitars.com/
   - title: Blackstar Aplification
     image: Blackstar-Aplification-logo.png
-    url:
+    url: https://www.blackstaramps.com/uk
   # new row
   - title: Danelectro
     image: Danelectro-logo.png
-    url:
+    url: http://danelectro.com/
   - title: dbtechnologies
     image: dbtechnologies.png
-    url:
-  - title: ddrum
+    url: http://www.dbtechnologies.com/en/home/
+  - title: DDrum
     image: ddrum.png
-    url:
+    url: https://www.ddrum.com/index.php
   - title: Dean Guitars
     image: Dean-Guitars-logo.png
-    url:
+    url: https://www.deanguitars.com/
   - title: Dime Amp
     image: Dime-Amp-Logo.png
-    url:
+    url: https://www.armadilloent.com/dimeamps.html
   - title: DJ Tech
     image: DJ-Tech-logo.png
-    url:
+    url: http://www.djtechpro.com/eng/
   # new row
   - title: dw drums
     image: dw-drums.png
-    url:
+    url: http://www.dwdrums.com/
   - title: Egnater custom amplification
     image: Egnater-custom-amplification-logo.png
-    url:
+    url: http://www.egnateramps.com/
   - title: Elation Professional
     image: Elation-Professional.png
-    url:
+    url: https://www.elationlighting.com/?SID=b7t8f51fu3audtaoh0p1ppjbe0
   - title: FBT audio
     image: FBT-audio-logo.png
-    url:
-  - title: fleabass
+    url: http://www.fbtaudio.co.uk/
+  - title: Fleabass signature
     image: fleabass.png
-    url:
+    url: https://www.fender.com/pages/flea-signature-bass/
   - title: Gemini Pro Audio
     image: Gemini_ProAudio.png
-    url:
+    url: http://geminisound.com/
   # new row
-  - title: gigskinz
+  - title: Gigskinz
     image: gigskinz-logo-transparent.png
-    url:
+    url: https://web.archive.org/web/20161020111255/http://www.gigskinz.com/
   - title: Hartke Amp
     image: Hartke_Amp.png
-    url:
-  - title: jamstands
+    url: http://www.samsontech.com/hartke/
+  - title: Jamstands
     image: jamstands.png
-    url:
-  - title: jetcityamplification
+    url: http://www.ultimatesupport.com/products/jamstands.html
+  - title: Jetcityamplification
     image: jetcityamplification.png
-    url:
-  - title: konig-and-meyer
+    url: https://www.jetcityamplification.com/
+  - title: Konig And Meyer
     image: konig-and-meyer.png
-    url:
+    url: https://www.k-m.de/en
   - title: KrankAmp
     image: KrankAmp.png
-    url:
+    url: http://www.krankamps.com/
   # new row
-  - title: LEVY's
+  - title: Levy's Leathers: Guitar Straps & Bags
     image: LEVY.s-Logo.png
-    url:
-  - title: line6 amp
+    url: http://www.levysleathers.com/
+  - title: Line6
     image: line6-amp-logo.png
-    url:
+    url: https://line6.com/amps/
   - title: Luna Guitars
     image: Luna-Guitars.png
-    url:
+    url: https://www.lunaguitars.com/
   - title: Native Instrument
     image: NativeInstrument.png
-    url:
+    url: https://www.native-instruments.com/en/
   - title: Numark
     image: Numark.png
-    url:
+    url: https://www.numark.com/product_category/controllers
   - title: On Stage Stands
     image: On-Stage-Stands.png
-    url:
+    url: https://on-stage.com/
   # new row
-  - title: Orion
+  - title: Orion Symbals
     image: orion.png
-    url:
+    url: http://orioncymbals.com.br/
   - title: Paiste
     image: paiste.png
-    url:
-  - title: Promark
+    url: http://www.paiste.com/
+  - title: Promark Drumsticks
     image: Promark-logo.png
-    url:
+    url: http://www.promark.com/
   - title: RoadReadyCases
     image: roadreadycases.png
-    url:
+    url: http://www.roadreadycases.com/
   - title: Rocktron
     image: Rocktron.png
-    url:
-  - title: Sambian
-    image: Sambian.png
-    url:
+    url: http://www.rocktron.com/
+  - title: Sabian
+    image: Sabian.png
+    url: https://www.sabian.com/en/home
   # new row
   - title: Schecter Guitar Research
     image: Schecter-Guitar-Research-logo.png
-    url:
+    url: http://www.schecterguitars.com/
   - title: Shaw Direct
     image: shawdirect-logo.png
-    url:
+    url: https://www.shawdirect.ca/english/
   - title: Shure
     image: Shure_Logo.png
-    url:
+    url: http://www.shure.com/
   - title: Sicmats
     image: Sicmats.png
-    url:
+    url: https://web.archive.org/web/20130822230404/http://www.sicmats.com/
   - title: Stagg Universe of Music
     image: Stagg-Universe-of-Music-logo-copy.png
-    url:
+    url: https://www.staggmusic.com/
   - title: Studio Master
     image: StudioMaster-logo.png
-    url:
+    url: https://www.studiomaster.com/
   # new row
-  - title: Tanglewood
+  - title: Tanglewood Guitars
     image: tanglewood.png
-    url:
+    url: http://www.tanglewoodguitars.co.uk/
   - title: Traxon
     image: Traxon.png
-    url:
+    url: http://www.traxontechnologies.com/
   - title: Vic Firth
     image: Vic-Firth-logo.png
-    url:
+    url: http://vicfirth.com/
   - title: Warwick basses amps
     image: Warwick-basses-amps-logo.png
-    url:
+    url: http://www.warwickbass.com/en/Home.html
   - title: Wharefedale Pro
     image: Wharefedale-Pro-logo.png
-    url:
+    url: http://wharfedalepro.com/
   - title: Zildjian
     image: Zildjian.png
-    url:
+    url: https://zildjian.com/
   # new row
-  - title: zt amp
+  - title: ZT Amplifiers
     image: zt_amp.png
-    url:
+    url: https://www.ztamplifiers.com/
   - title: skip
-    image:
-    url:
   - title: skip
-    image:
-    url:
   - title: skip
-    image:
-    url:
   - title: skip
-    image:
-    url:
   - title: skip
-    image:
-    url:
