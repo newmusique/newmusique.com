@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 landing-title: Visitez-nous à la plaza 2 d’Alma
 ---
 
