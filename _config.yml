@@ -2,6 +2,7 @@ title-bold: N.E.W. Musique
 title-normal:
 email: infonewmusique@gmail.com
 description: Magasin de musique situé à la plaza 2 d’Alma. Venez nous voir et profitez de plusieurs services. Réparation, ajustement d’instrument, achat neuf ou usagé. Commandes spéciales disponibles!
+baseurl: ""
 url: "https://newmusique.com"
 author:
 street_address: 585 rue Collard O (Plaza 2)
