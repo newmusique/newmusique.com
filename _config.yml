@@ -34,12 +34,11 @@ markdown: kramdown
 # Plugin: jekyll-seo-tag
 twitter:
   username:
-# Add one or more of the following
-facebook:
-  app_id:
-  publisher:
-  admins:
 google_site_verification:
+google_analytics_id: UA-26262500-1
+facebook:
+  app_id: 757708377907669
+  default_image: /assets/images/open-graph-default-image.png
 
 product_categories:
 - title: En vente chez N.E.W. Musique
